@@ -14,6 +14,7 @@ def main():
     print("Student: TYRA CLARY")
     print("Learning open source GIS workflows with GitHub")
     print("University of Arizona coordinates: 32.2319° N, 110.9501° W")
+    print ('Updated in Codespaces')
 
     # Add your own message here!
     print("[GIS interests me because I have a desire to help others and GIS helps people daily, even if they dont know it!")
