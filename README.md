@@ -1,30 +1,37 @@
-**Student:** TYRA CLARY  
-Course: GIST 604B - Open Source GIS  
-Module 1: Open Source Infrastructure & Workflows  
-Assignment 1: GitHub Repository Management  
-University of Arizona  
+# Tyra Clary – GIS Portfolio
 
-## Learning Goals
-In this assignment, I'm learning:
-- GitHub repository management and organization
-- Professional documentation with Markdown
-- Writing and running Python scripts
-- Using GitHub Codespaces as a cloud development environment
-- Practicing the Git workflow (stage → commit → push)
-- Understanding how open source projects use Issues for collaboration
+## About
+I am a GIS graduate student at the University of Arizona with a background in Public Health and experience as a collegiate student-athlete. I have developed skills in spatial analysis, web mapping, and working with open-source GIS tools. My work focuses on building interactive maps and analyzing geographic data to better understand real-world patterns and relationships.
 
-## Repository Purpose
-This repository demonstrates GitHub skills including:
-- Creating and organizing a professional project structure
-- Writing clear technical documentation
-- Executing Python code in GitHub Codespaces
-- Using Git for version control
-- Creating labeled Issues to model collaborative workflows
+## Projects
+Below are selected projects completed as part of my coursework in Open Source GIS:
 
-## Repository Structure
-- `docs/` - documentation
-- `scripts/` - Python scripts
+- **QGIS Spatial Analysis Projects**  
+  Introduction to GIS concepts including map creation, projections, and spatial analysis using QGIS.  
+  🔗 [View Repository](#)
 
-## Usage
-To run the hello script:
-python scripts/hello.py
+- **PostGIS Spatial Queries**  
+  Performed spatial analysis using SQL and PostGIS with OpenStreetMap data.  
+  🔗 [View Repository](#)
+
+- **GeoPandas Data Analysis**  
+  Used Python and GeoPandas to analyze spatial datasets and create visualizations.  
+  🔗 [View Repository](#)
+
+- **OSM + PostGIS Workflow**  
+  Extracted and processed OpenStreetMap data to generate spatial datasets for analysis and mapping.  
+  🔗 [View Repository](#)
+
+- **WebGIS Application (Leaflet)**  
+  Built an interactive web map displaying restaurants, railway lines, and land use areas in Clark County, Nevada.  
+  🔗 [View Repository](#)  
+  🌐 [Live Map](#)
+
+## Skills
+- QGIS  
+- PostgreSQL / PostGIS  
+- Python (GeoPandas, Pandas, Matplotlib)  
+- Leaflet (JavaScript Web Mapping)  
+- HTML, CSS, JavaScript  
+- Spatial Analysis & Data Visualization  
+
